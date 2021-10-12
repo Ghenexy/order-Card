@@ -1,1 +1,1 @@
-link to project: https://github.com/Ghenexy/order-Card/
+link to project: https://ghenexy.github.io/order-Card/
